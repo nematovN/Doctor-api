@@ -4,6 +4,7 @@
 🎨 **Figma Design:** [Healthcare Consultation UI](https://www.figma.com/design/0Zxvf3jQcFXT6u1lmrTt9a/Desktop-Designs-%3A-Healthcare-Consultation-(Community)?node-id=0-1&p=f&t=g9AkSCL0uBrHG9uA-0)  
 📂 **GitHub Repository:** [Doctor API](https://github.com/nematovN/Doctor-api.git)  
 
+salom
 
 ✨ Features
 ✅ User Authentication & JWT-based Authorization
